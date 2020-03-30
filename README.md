@@ -1,4 +1,4 @@
-# Programming as Conversation 2: Repetition With the `while` Statement
+rstand# Programming as Conversation 2: Repetition With the `while` Statement
 
 ## Learning Goals
 
